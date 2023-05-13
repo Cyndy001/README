@@ -1,0 +1,29 @@
+p.hobbies{
+    color: red;
+    font-display:block;
+}
+div{
+    background-color: khaki;
+    border: 2px solid palevioletred;
+    margin: 20px grey;
+    padding: 10px;
+}
+div.Challenges{
+    background-color: rgba(255, 0, 0, 0.726);
+    border: 4px  dashed;
+    margin: 30px;
+    padding: 15px;
+}
+div.Challenges span{
+    border-bottom: 2px solid ;
+    font-weight: bold;
+}
+section.intro span{
+    font-weight: bold;
+    border-bottom: 3px solid goldenrod;
+}
+p.ultimate{
+    color: green;
+    font-style: oblique;
+    font-weight: bolder;
+}
